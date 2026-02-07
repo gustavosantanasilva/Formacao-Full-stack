@@ -15,3 +15,5 @@
 
 [03. HARDWARE E SOFTWARE](/Primeiros%20passos/03-Hardware-e-Software.md)
 
+[04. SISTEMA OPERACIONAL](/Primeiros%20passos/04-Sistema-Operacional.md)
+
