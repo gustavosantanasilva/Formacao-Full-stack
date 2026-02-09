@@ -20,3 +20,32 @@ O web traduzido é teia, a web e como uma teia de aranha ela interliga todos os 
 ## Serviços Web #️⃣
 
 Os serviços web são construidos na estrutura da internet, alguns exemplos são : sites, email, streaming, etc...
+
+
+## Como um computador é encontrado na internet? 🌐
+
+## IP 📌
+
+Vamos imaginar que você vai até a casa de um amigo e para isso ele te manda o endereço dele porem ele manda em formato de Cep. bom o ip e basicamente o endereço dos computadores que serve para receberem dados da internet e enviar etc. O ip e como se fosse um cep para o computador e tambem ele é um protocolo com um conjunto de regras que define onde o computador está no mundo.
+
+- Exemplo de IP : 200.192.12.1
+
+## Domínio 📬️
+
+O domínio e basicamente um link que representa o IP de um conputador e tambem o dominio faz troca de arquivos como html, css, JS que são a estrutura basica de um site.
+
+- Exemplo de domínio : google.com
+
+
+## DNS( Domain Name System) 🧾
+
+Uma definição bem simples de DNS e basicamente o sistema responsavel de converter o domínio de um site em o IP que esse site está armazenado.
+
+-Exemplo: (google.com) -> (200.192.12.1)
+
+
+
+
+## Troca de arquivos 📁
+
+Por fim tudo isso (IP, DNS, DOMÍNIO, etc ) trabalham em conjunto para transação de dados pela internet.
