@@ -21,3 +21,4 @@
 
 [06. INTERNET](/Primeiros%20passos/06-Internet.md)
 
+[07. FRONT-END VS BACK-END](/Primeiros%20passos/07-Front-end-VS-Back-end.md)
