@@ -5,7 +5,7 @@
 # Índice conteudos 🧾
 
 
-> Lembre-se todos os items do índice de conteudos esta na ordem recomendada para o estudo então eu recomendo você seguir os passos a seguir.
+> Lembre-se todos os items do índice de conteudos esta na ordem recomendada para o estudo então eu recomendo que você siga os passos a seguir.
 
 #### 👣Primeiros Passos
 
