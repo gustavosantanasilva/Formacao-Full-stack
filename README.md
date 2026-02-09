@@ -17,3 +17,7 @@
 
 [04. SISTEMA OPERACIONAL](/Primeiros%20passos/04-Sistema-Operacional.md)
 
+[05. ARQUIVOS](/Primeiros%20passos/05-Arquivos.md)
+
+[06. INTERNET](/Primeiros%20passos/06-Internet.md)
+
