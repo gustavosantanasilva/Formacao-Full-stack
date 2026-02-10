@@ -22,3 +22,5 @@
 [06. INTERNET](/Primeiros-passos/06-Internet.md)
 
 [07. FRONT-END VS BACK-END](/Primeiros-passos/07-Front-end-VS-Back-end.md)
+
+[08. Tecnologias básicas da web](/Primeiros-passos/08-Tecnologias-basicas-da-web.md)
