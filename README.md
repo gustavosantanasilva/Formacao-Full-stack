@@ -23,4 +23,4 @@
 
 [07. FRONT-END VS BACK-END](/Primeiros-passos/07-Front-end-VS-Back-end.md)
 
-[08. TeECNOLOGIAS BÁSICAS DA WEB](/Primeiros-passos/08-Tecnologias-basicas-da-web.md)
+[08. TECNOLOGIAS BÁSICAS DA WEB](/Primeiros-passos/08-Tecnologias-basicas-da-web.md)
