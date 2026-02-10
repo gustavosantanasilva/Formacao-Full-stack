@@ -26,3 +26,5 @@
 [08. TECNOLOGIAS BÁSICAS DA WEB](/Primeiros-passos/08-Tecnologias-basicas-da-web.md)
 
 [09. WEBPAGE VS WEBSITES](/Primeiros-passos/09-Webpage-Website.md)
+
+[10. SITE ESTÁTICO VS SITE DINÂMICO](/Primeiros-passos/10-Site-estatico-vs-site-dinamico.md)
